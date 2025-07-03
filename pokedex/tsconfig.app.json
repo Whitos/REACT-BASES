@@ -20,10 +20,9 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "erasableSyntaxOnly": true,
-   // "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true,
     "noFallthroughCasesInSwitch": true,
-    "noImplicitAny": false
+    "noUncheckedSideEffectImports": true,
+    // "noImplicitAny": false
   },
   "include": ["src"]
 }
